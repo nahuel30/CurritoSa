@@ -1,0 +1,73 @@
+body .contenedor {
+	background-color: #FDFFBB;
+	width: 50%;
+	max-width: 800px;
+	height: 300px;	
+}
+
+td input {
+	position: relative;
+	width: 250px;
+	height: 40px;
+	border-color: #fff;
+	background-color: #F8FF87;
+}
+
+td label {
+	position: relative;
+	border-color: #fff;
+}
+
+table {
+	position: relative;
+	top: -2px;
+	left: 10%;
+	right: 30%;
+}
+
+.botonesprimarios input {
+	position: relative;
+	top: -30px;
+	height: 40px;
+	border-color: #fff;
+	background-color: #F8FF87;
+}
+
+body {
+	position: relative;
+	top: 5%;
+	left: 20%;
+	right: 20%;
+}
+
+.titulo {
+	position: relative;
+	top: -2px;
+	font-family: verdana;
+	font-size: 50px;
+}
+
+.botonguardar input {
+	position: relative;
+	top: -10px;
+	width: 10%;
+	height: 8%;
+	border-color: #fff;
+	background-color: #F8FF87;
+}
+
+.botonmostrartabla {
+	position: relative;
+	top: -73px;
+	width: 10%;
+	left: 30%;
+	height: 8%;
+	border-color: #fff;
+	background-color: #F8FF87;
+}
+
+div #mostrartabla {
+	position: absolute;
+	left: 40%;
+	top: 30%;
+}
